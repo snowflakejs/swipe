@@ -11,9 +11,6 @@ Screenshots can be viewed at:<br>
 
 https://github.com/snapdragonxc/swipe/blob/master/screenshots/Screenshot%20from%202019-06-03%2007-42-45.png
 
-<br>
-
-
 ### Installation
 
 Clone the repository and install with:<br>
