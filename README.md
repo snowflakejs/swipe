@@ -5,10 +5,12 @@ This app was built with React Native and developed using an Android Studio Virtu
 
 Screenshots can be viewed at:<br>
 
+[https://github.com/snapdragonxc/swipe/blob/master/screenshots/Screenshot%20from%202019-06-03%2007-42-15.png](https://github.com/snapdragonxc/swipe/blob/master/screenshots/Screenshot%20from%202019-06-03%2007-42-15.png)
+
 <br>
 
 
-### `Installation`
+### Installation
 
 Clone the repository and install with:<br>
 
@@ -16,7 +18,7 @@ Clone the repository and install with:<br>
 npm install
 ```
 
-### `Starting`
+### Starting
 
 Open Android Studio and find the 'Configure' tab on the bottom of the display. Select 'AVD Manager' from the dropdown menu and configure and play an Android simulator of your choice. In the command terminal of the cloned repository, start the app with:<br>
 
@@ -24,7 +26,7 @@ Open Android Studio and find the 'Configure' tab on the bottom of the display. S
 react-native run-android
 ```
 
-### `npm run test`
+### Testing
 
 The code has been tested using Jest with Enzyme (with the exception of the JobsPage component).<br>
 
