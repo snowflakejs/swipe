@@ -38,7 +38,7 @@ The code has been tested using Jest and Enzyme (with the exception of the JobsPa
 To run the tests, from the command terminal enter:<br>
 
 ```
-react-native run-android
+npm run test
 ```
 
 
