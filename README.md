@@ -12,6 +12,7 @@ Screenshots can be viewed at:<br>
 <br>
 [https://github.com/snapdragonxc/swipe/blob/master/screenshots/Screenshot%20from%202019-06-03%2007-42-45.png]
 (https://github.com/snapdragonxc/swipe/blob/master/screenshots/Screenshot%20from%202019-06-03%2007-42-45.png)
+
 <br>
 
 
